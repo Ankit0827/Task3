@@ -1,0 +1,26 @@
+#input-btn{
+    margin-left: 9%;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.form{
+    border: 3px solid red;
+    border-radius: 5px;
+    justify-content: center;
+    margin-top: 10%;
+    padding: 5%;
+
+}
+#containerInput{
+  margin-left: 2.5%;
+}
+.heading{
+ margin-left: 40%;
+ font-size: 50px;
+ font-weight: 700;
+}
+#error{
+  margin-left: 5%;
+}
